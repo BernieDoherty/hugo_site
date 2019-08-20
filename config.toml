@@ -3,6 +3,7 @@
 baseURL = 'https://example.com/'
 title = 'Hugo Book'
 theme = 'book'
+publishDir = "bdoherty12000.github.io"
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
 
