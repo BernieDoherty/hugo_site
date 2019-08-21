@@ -3,7 +3,7 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# The Data Faculty
 
 {{< columns >}}
 ## Astris ipse furtiva
